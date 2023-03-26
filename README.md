@@ -132,6 +132,9 @@ The scenarios which I have tried to cover and present in below files
 
 I have used testNG and its annotation to write the automation test
 
+### Execution Logs:
+
+https://github.com/vinaygupta2050/amberTestAutomationSuite/blob/main/ExecutionVideo/ExecutionVideo.mp4
 
 ## Authors
 
