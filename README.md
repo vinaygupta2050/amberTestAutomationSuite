@@ -134,7 +134,11 @@ I have used testNG and its annotation to write the automation test
 
 ### Execution Logs:
 
+Execution Video:
 https://github.com/vinaygupta2050/amberTestAutomationSuite/blob/main/ExecutionVideo/ExecutionVideo.mp4
+
+Logs:
+https://github.com/vinaygupta2050/amberTestAutomationSuite/blob/main/ExecutionVideo/logfile.log
 
 ## Authors
 
