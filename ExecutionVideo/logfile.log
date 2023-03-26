@@ -1,0 +1,141 @@
+INFO  - 2023-03-26 21:09:47.174; BaseTest: Test Run on :null
+INFO  - 2023-03-26 21:09:47.187; BaseTest: Environment Loaded :null
+INFO  - 2023-03-26 21:09:47.202; TestListeners: Test Suite Execution Started :AmberTestAutomationSuite
+INFO  - 2023-03-26 21:10:06.617; BaseTest: Opening Url:https://amberstudent.com/
+INFO  - 2023-03-26 21:10:06.651; TestListeners: TestExecution started :verifyExistingUserIsAbleToSearchPropertyBaseOnLocation
+INFO  - 2023-03-26 21:10:09.670; LandingPage: Verifying screen title
+INFO  - 2023-03-26 21:10:09.730; LandingPage: Verification Successfull!!!
+INFO  - 2023-03-26 21:10:14.148; LandingPage: Clicked on Login Button
+INFO  - 2023-03-26 21:10:15.418; LoginPage: Click on Google Signin
+INFO  - 2023-03-26 21:10:16.104; LoginPage: Navigate to Google Login Screen
+INFO  - 2023-03-26 21:10:41.925; BaseTest: Test Run on :null
+INFO  - 2023-03-26 21:10:41.930; BaseTest: Environment Loaded :null
+INFO  - 2023-03-26 21:10:41.945; TestListeners: Test Suite Execution Started :AmberTestAutomationSuite
+INFO  - 2023-03-26 21:10:57.939; BaseTest: Opening Url:https://amberstudent.com/
+INFO  - 2023-03-26 21:10:57.963; TestListeners: TestExecution started :verifyExistingUserIsAbleToSearchPropertyBaseOnLocation
+INFO  - 2023-03-26 21:10:58.655; LandingPage: Verifying screen title
+INFO  - 2023-03-26 21:11:00.686; LandingPage: Verification Successfull!!!
+INFO  - 2023-03-26 21:11:05.313; LandingPage: Clicked on Login Button
+INFO  - 2023-03-26 21:11:07.348; LoginPage: Click on Google Signin
+INFO  - 2023-03-26 21:11:07.628; LoginPage: Navigate to Google Login Screen
+INFO  - 2023-03-26 21:11:27.267; BaseTest: Opening Url:https://amberstudent.com/
+INFO  - 2023-03-26 21:11:27.286; TestListeners: TestExecution started :verifyNewUserIsAbleToSearchPropertyBasedOnLocation
+INFO  - 2023-03-26 21:11:30.314; LandingPage: Verifying screen title
+INFO  - 2023-03-26 21:11:30.348; LandingPage: Verification Successfull!!!
+INFO  - 2023-03-26 21:14:37.865; BaseTest: Test Run on :null
+INFO  - 2023-03-26 21:14:37.873; BaseTest: Environment Loaded :null
+INFO  - 2023-03-26 21:14:37.893; TestListeners: Test Suite Execution Started :AmberTestAutomationSuite
+INFO  - 2023-03-26 21:14:57.473; BaseTest: Opening Url:https://amberstudent.com/
+INFO  - 2023-03-26 21:14:57.492; TestListeners: TestExecution started :verifyExistingUserIsAbleToSearchPropertyBaseOnLocation
+INFO  - 2023-03-26 21:14:58.181; LandingPage: Verifying screen title
+INFO  - 2023-03-26 21:14:59.968; LandingPage: Verification Successfull!!!
+INFO  - 2023-03-26 21:15:04.059; LandingPage: Clicked on Login Button
+INFO  - 2023-03-26 21:15:04.778; LoginPage: Click on Google Signin
+INFO  - 2023-03-26 21:15:04.941; LoginPage: Navigate to Google Login Screen
+INFO  - 2023-03-26 21:15:16.990; GoogleSignInPage: Entering email ID as : ambertestuser2050@gmail.com
+INFO  - 2023-03-26 21:15:19.640; GoogleSignInPage: Clicked on Next button
+INFO  - 2023-03-26 21:15:22.646; GoogleSignInPage: Entering Password
+INFO  - 2023-03-26 21:15:22.876; GoogleSignInPage: Clicked on Next button
+INFO  - 2023-03-26 21:15:42.916; LandingPage: Navigate to Landing Page
+INFO  - 2023-03-26 21:15:43.036; LandingPage: Login Successfull!!!
+INFO  - 2023-03-26 21:15:48.332; LandingPage: Select Location as : London
+INFO  - 2023-03-26 21:15:48.333; LandingPage: Initiating Search...
+INFO  - 2023-03-26 21:15:51.437; SearchResultPage: Search Result Displayed
+INFO  - 2023-03-26 21:15:51.612; SearchResultPage: Actual Location : London
+INFO  - 2023-03-26 21:15:51.652; SearchResultPage: Actual Total Results Count : 127
+INFO  - 2023-03-26 21:15:51.653; SearchResultPage: Expected Location : London
+INFO  - 2023-03-26 21:15:51.653; SearchResultPage: Expected Total Results Count : 127
+INFO  - 2023-03-26 21:15:51.687; SearchResultPage: Applying Room Type Filter as :Entire Place
+INFO  - 2023-03-26 21:15:53.788; SearchResultPage: Applying Sharing Filter as :Private Bathroom
+INFO  - 2023-03-26 21:15:55.850; SearchResultPage: Selecting Search Result Number :2
+INFO  - 2023-03-26 21:15:55.913; PropertyDescriptionPage: Verifying Property Title and Location
+INFO  - 2023-03-26 21:15:55.913; PropertyDescriptionPage: Expected Title :Chapter Old Street, London
+INFO  - 2023-03-26 21:15:55.914; PropertyDescriptionPage: Expected Location :Paul St, London, EC2A 4JH, United Kingdom
+INFO  - 2023-03-26 21:15:57.991; PropertyDescriptionPage: Actual Title :Chapter Old Street, London
+INFO  - 2023-03-26 21:15:58.168; PropertyDescriptionPage: Actual Location :Paul St, London, EC2A 4JH, United Kingdom
+INFO  - 2023-03-26 21:15:58.586; TestListeners: Test executed Successfully!!! :verifyExistingUserIsAbleToSearchPropertyBaseOnLocation
+INFO  - 2023-03-26 21:16:12.004; BaseTest: Opening Url:https://amberstudent.com/
+INFO  - 2023-03-26 21:16:12.024; TestListeners: TestExecution started :verifyNewUserIsAbleToSearchPropertyBasedOnLocation
+INFO  - 2023-03-26 21:16:12.652; LandingPage: Verifying screen title
+INFO  - 2023-03-26 21:16:12.714; LandingPage: Verification Successfull!!!
+INFO  - 2023-03-26 21:16:24.782; LandingPage: Select Location as : London
+INFO  - 2023-03-26 21:16:24.783; LandingPage: Initiating Search...
+INFO  - 2023-03-26 21:16:28.591; SearchResultPage: Search Result Displayed
+INFO  - 2023-03-26 21:16:28.690; SearchResultPage: Actual Location : London
+INFO  - 2023-03-26 21:16:28.715; SearchResultPage: Actual Total Results Count : 127
+INFO  - 2023-03-26 21:16:28.731; SearchResultPage: Expected Location : London
+INFO  - 2023-03-26 21:16:28.731; SearchResultPage: Expected Total Results Count : 127
+INFO  - 2023-03-26 21:16:28.766; SearchResultPage: Applying Room Type Filter as :Entire Place
+INFO  - 2023-03-26 21:16:31.227; SearchResultPage: Applying Sharing Filter as :Private Bathroom
+INFO  - 2023-03-26 21:16:34.364; SearchResultPage: Selecting Search Result Number :2
+INFO  - 2023-03-26 21:16:34.420; PropertyDescriptionPage: Verifying Property Title and Location
+INFO  - 2023-03-26 21:16:34.441; PropertyDescriptionPage: Expected Title :Chapter Old Street, London
+INFO  - 2023-03-26 21:16:34.441; PropertyDescriptionPage: Expected Location :Paul St, London, EC2A 4JH, United Kingdom
+INFO  - 2023-03-26 21:16:37.192; PropertyDescriptionPage: Actual Title :Chapter Old Street, London
+INFO  - 2023-03-26 21:16:37.234; PropertyDescriptionPage: Actual Location :Paul St, London, EC2A 4JH, United Kingdom
+INFO  - 2023-03-26 21:16:37.272; TestListeners: Test executed Successfully!!! :verifyNewUserIsAbleToSearchPropertyBasedOnLocation
+INFO  - 2023-03-26 21:16:37.481; TestListeners: Test Suite Execution completed :AmberTestAutomationSuite
+INFO  - 2023-03-26 21:18:27.500; BaseTest: Test Run on :null
+INFO  - 2023-03-26 21:18:27.517; BaseTest: Environment Loaded :null
+INFO  - 2023-03-26 21:18:27.534; TestListeners: Test Suite Execution Started :AmberTestAutomationSuite
+INFO  - 2023-03-26 21:18:48.385; BaseTest: Opening Url:https://amberstudent.com/
+INFO  - 2023-03-26 21:18:48.409; TestListeners: TestExecution started :verifyExistingUserIsAbleToSearchPropertyBaseOnLocation
+INFO  - 2023-03-26 21:18:49.190; LandingPage: Verifying screen title
+INFO  - 2023-03-26 21:18:51.165; LandingPage: Verification Successfull!!!
+INFO  - 2023-03-26 21:18:56.139; LandingPage: Clicked on Login Button
+INFO  - 2023-03-26 21:18:58.970; LoginPage: Click on Google Signin
+INFO  - 2023-03-26 21:18:59.017; LoginPage: Navigate to Google Login Screen
+INFO  - 2023-03-26 21:19:03.725; GoogleSignInPage: Entering email ID as : ambertestuser2050@gmail.com
+INFO  - 2023-03-26 21:19:31.598; BaseTest: Test Run on :null
+INFO  - 2023-03-26 21:19:31.606; BaseTest: Environment Loaded :null
+INFO  - 2023-03-26 21:19:31.677; TestListeners: Test Suite Execution Started :AmberTestAutomationSuite
+INFO  - 2023-03-26 21:19:47.315; BaseTest: Opening Url:https://amberstudent.com/
+INFO  - 2023-03-26 21:19:47.345; TestListeners: TestExecution started :verifyExistingUserIsAbleToSearchPropertyBaseOnLocation
+INFO  - 2023-03-26 21:19:48.432; LandingPage: Verifying screen title
+INFO  - 2023-03-26 21:19:50.044; LandingPage: Verification Successfull!!!
+INFO  - 2023-03-26 21:19:54.855; LandingPage: Clicked on Login Button
+INFO  - 2023-03-26 21:19:55.666; LoginPage: Click on Google Signin
+INFO  - 2023-03-26 21:19:55.723; LoginPage: Navigate to Google Login Screen
+INFO  - 2023-03-26 21:20:10.193; GoogleSignInPage: Entering email ID as : ambertestuser2050@gmail.com
+INFO  - 2023-03-26 21:20:12.319; GoogleSignInPage: Clicked on Next button
+INFO  - 2023-03-26 21:20:15.298; GoogleSignInPage: Entering Password
+INFO  - 2023-03-26 21:20:15.503; GoogleSignInPage: Clicked on Next button
+INFO  - 2023-03-26 21:20:35.540; LandingPage: Navigate to Landing Page
+INFO  - 2023-03-26 21:20:35.607; LandingPage: Login Successfull!!!
+INFO  - 2023-03-26 21:20:41.853; LandingPage: Select Location as : London
+INFO  - 2023-03-26 21:20:41.854; LandingPage: Initiating Search...
+INFO  - 2023-03-26 21:20:45.366; SearchResultPage: Search Result Displayed
+INFO  - 2023-03-26 21:20:45.528; SearchResultPage: Actual Location : London
+INFO  - 2023-03-26 21:20:45.569; SearchResultPage: Actual Total Results Count : 127
+INFO  - 2023-03-26 21:20:45.570; SearchResultPage: Expected Location : London
+INFO  - 2023-03-26 21:20:45.570; SearchResultPage: Expected Total Results Count : 127
+INFO  - 2023-03-26 21:20:45.607; SearchResultPage: Applying Room Type Filter as :Entire Place
+INFO  - 2023-03-26 21:20:48.491; SearchResultPage: Applying Sharing Filter as :Private Bathroom
+INFO  - 2023-03-26 21:20:51.262; SearchResultPage: Selecting Search Result Number :2
+INFO  - 2023-03-26 21:20:51.316; PropertyDescriptionPage: Verifying Property Title and Location
+INFO  - 2023-03-26 21:20:51.317; PropertyDescriptionPage: Expected Title :Chapter Old Street, London
+INFO  - 2023-03-26 21:20:51.317; PropertyDescriptionPage: Expected Location :Paul St, London, EC2A 4JH, United Kingdom
+INFO  - 2023-03-26 21:20:53.565; PropertyDescriptionPage: Actual Title :Chapter Old Street, London
+INFO  - 2023-03-26 21:20:53.600; PropertyDescriptionPage: Actual Location :Paul St, London, EC2A 4JH, United Kingdom
+INFO  - 2023-03-26 21:20:54.523; TestListeners: Test executed Successfully!!! :verifyExistingUserIsAbleToSearchPropertyBaseOnLocation
+INFO  - 2023-03-26 21:21:11.884; BaseTest: Opening Url:https://amberstudent.com/
+INFO  - 2023-03-26 21:21:11.903; TestListeners: TestExecution started :verifyNewUserIsAbleToSearchPropertyBasedOnLocation
+INFO  - 2023-03-26 21:21:12.587; LandingPage: Verifying screen title
+INFO  - 2023-03-26 21:21:15.025; LandingPage: Verification Successfull!!!
+INFO  - 2023-03-26 21:21:26.078; LandingPage: Select Location as : London
+INFO  - 2023-03-26 21:21:26.079; LandingPage: Initiating Search...
+INFO  - 2023-03-26 21:21:31.357; SearchResultPage: Search Result Displayed
+INFO  - 2023-03-26 21:21:32.450; SearchResultPage: Actual Location : London
+INFO  - 2023-03-26 21:21:32.493; SearchResultPage: Actual Total Results Count : 127
+INFO  - 2023-03-26 21:21:32.493; SearchResultPage: Expected Location : London
+INFO  - 2023-03-26 21:21:32.493; SearchResultPage: Expected Total Results Count : 127
+INFO  - 2023-03-26 21:21:32.523; SearchResultPage: Applying Room Type Filter as :Entire Place
+INFO  - 2023-03-26 21:21:35.301; SearchResultPage: Applying Sharing Filter as :Private Bathroom
+INFO  - 2023-03-26 21:21:38.283; SearchResultPage: Selecting Search Result Number :2
+INFO  - 2023-03-26 21:21:39.042; PropertyDescriptionPage: Verifying Property Title and Location
+INFO  - 2023-03-26 21:21:39.042; PropertyDescriptionPage: Expected Title :Chapter Old Street, London
+INFO  - 2023-03-26 21:21:39.042; PropertyDescriptionPage: Expected Location :Paul St, London, EC2A 4JH, United Kingdom
+INFO  - 2023-03-26 21:21:42.938; PropertyDescriptionPage: Actual Title :Chapter Old Street, London
+INFO  - 2023-03-26 21:21:42.969; PropertyDescriptionPage: Actual Location :Paul St, London, EC2A 4JH, United Kingdom
+INFO  - 2023-03-26 21:21:43.001; TestListeners: Test executed Successfully!!! :verifyNewUserIsAbleToSearchPropertyBasedOnLocation
+INFO  - 2023-03-26 21:21:43.230; TestListeners: Test Suite Execution completed :AmberTestAutomationSuite
